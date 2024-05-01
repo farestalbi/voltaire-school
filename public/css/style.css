@@ -614,3 +614,15 @@ label {
   max-height: 50px;
   margin-top: -5%;
 }
+
+/* .portfolio-items {
+  display: flex;
+  align-items: center;
+} */
+
+@media only screen and (min-width: 750px) {
+  .img-responsive {
+    height: 300px;
+    object-fit: cover;
+  }
+}
