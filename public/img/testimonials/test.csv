@@ -1,0 +1,61 @@
+_id,admin,amount,type,office,notes,createdAt,updatedAt
+"""664f68cb71fed431c4ef9818""",med.radhi.malek,70,credit,Ezzahra,ماء,05/23/2024,05/23/2024
+"""664f65fb71fed431c4ef8c52""",imen-gorrab,100,deposit,Nabeul,tttt,05/23/2024,05/23/2024
+"""664f65d971fed431c4ef8b1e""",imen-gorrab,100,credit,Nabeul,ttt,05/23/2024,05/23/2024
+"""664f64e371fed431c4ef87db""",imen-gorrab,500,deposit,Nabeul,test,05/23/2024,05/23/2024
+"""664f561071fed431c4ef6c56""",med.radhi.malek,500,deposit,Bizerte,TEST,05/23/2024,05/23/2024
+"""664f55e171fed431c4ef6be6""",med.radhi.malek,500,deposit,Jendouba,first day in cash desk of office,05/23/2024,05/23/2024
+"""664f1887e79721be90aeecb1""",Benromdhane_Hajer,43,credit,Sfax,قضية للمقر,05/23/2024,05/23/2024
+"""664e1ad99b57609ac97e07df""",Sabrine-Trabelsi,48.45,credit,Gabes,scotch-stick note- enveloppe-chemise kraft-colle-ppchette blanche,05/22/2024,05/23/2024
+"""664b793b289d3c626f246c3e""",halima-benabilotef,5.5,credit,Sousse Khézama,ماء,05/20/2024,05/20/2024
+"""664b259da685a2a3e156fa77""",Asma-Yousfi,13.8,credit,Kairouan,شراء ماء ,05/20/2024,05/20/2024
+"""664b23c9a094de5abe852c59""",HANA_JARBOUI,51,credit,Centre Urbain Nord,فاتورة ضوء ,05/20/2024,05/20/2024
+"""66488ed1c7ea61be14b5ac8c""",Fatma_benhfaiedh,50,credit,Gabes,تكملة لبريم شهر مارس  فاطمة,05/18/2024,05/23/2024
+"""6644e66e66cd388f33d6620a""",halima-benabilotef,100,credit,Sousse Khézama,prime mois Avril,05/15/2024,05/15/2024
+"""6644e6483edc37c87cfce894""",halima-benabilotef,11.15,credit,Sousse Khézama,papier toilette+ ماء,05/15/2024,05/15/2024
+"""6644e58110a09809d9937346""",Benromdhane_Hajer,100,credit,Sfax,بريم ,05/15/2024,05/15/2024
+"""6644e11623d8064a00ff2638""",HANA_JARBOUI,150,credit,Centre Urbain Nord,بريم هناء + وفاء,05/15/2024,05/20/2024
+"""6644d8efe462dceb069069f4""",HANA_JARBOUI,5,credit,Centre Urbain Nord,معلوم بريد بعثت فاتورات لعبير ,05/15/2024,05/15/2024
+"""6644d6ffd01cdc5fe6ea04ad""",Majdouline-benmoussa,100,credit,Sousse Khézama,prime,05/15/2024,05/15/2024
+"""6644d6e332bab91ede8b638f""",Majdouline-benmoussa,225,credit,Sousse Khézama,remboursement cliente  ,05/15/2024,05/15/2024
+"""6644d6a14bf4db7398800b92""",Fatma_benhfaiedh,100,credit,Gabes,بريم أفريل صبرين,05/15/2024,05/23/2024
+"""6644d681aecd197114d9d6a3""",Fatma_benhfaiedh,100,credit,Gabes,بريم أفريل فاطمة,05/15/2024,05/23/2024
+"""6644d67565a8e7434a866522""",Habiba-oueslati,100,credit,Kairouan,منحة أفريل,05/15/2024,05/15/2024
+"""6644d653898eef1fb621150a""",Asma-Yousfi,100,credit,Kairouan,منحة أفريل,05/15/2024,05/15/2024
+"""6644bf31149c0e847438a31e""",Fatma_benhfaiedh,6,credit,Gabes,ماء,05/15/2024,05/23/2024
+"""6644972f598bcfa1de152783""",Wafa-mhenni,30,credit,Centre Urbain Nord,ماء,05/15/2024,05/15/2024
+"""6644707fca7ceaef203f0eb7""",Benromdhane_Hajer,18,credit,Sfax,دواء كفار ,05/15/2024,05/15/2024
+"""66434788659d90673937ab03""",Wafa-mhenni,9,credit,Centre Urbain Nord,تنقل وفاء smart future,05/14/2024,05/14/2024
+"""664336b59602885fb5a604c6""",Fatma_benhfaiedh,4.2,credit,Gabes,إيداع مراسلة مسجلة بالبريد,05/14/2024,05/23/2024
+"""6643369b3245f41f2d64fb01""",Sabrine-Trabelsi,59.82,credit,Gabes,papier-judy vaissel-sac poub-judy sol-ajax-gel wc-essuieT-savon,05/14/2024,05/23/2024
+"""664336946cd46d0b2dcba289""",Fatma_benhfaiedh,5.5,credit,Gabes,ماء ,05/14/2024,05/23/2024
+"""66420800204baad3495aabff""",HANA_JARBOUI,10,credit,Centre Urbain Nord,تنقل هناء  L2Tمعلوم,05/13/2024,05/13/2024
+"""663fa0be54795988d3f82e72""",Habiba-oueslati,330,credit,Kairouan,اجرة الأستاذ عبد الفتّاح الرويني,05/11/2024,05/11/2024
+"""663fa09de81571b197e951ef""",Habiba-oueslati,470,credit,Kairouan,اجرة الاستاذة سارة العيّاشي,05/11/2024,05/11/2024
+"""663f8cdb7a4d8de2365d3fe7""",Wafa-mhenni,139,credit,Centre Urbain Nord,تلميذ استرجع المبلغ بالاتفاق مع ياسين,05/11/2024,05/11/2024
+"""663cc71e17f4ca1a55ec1c2a""",Asma-Yousfi,620,credit,Kairouan,أجرة أستاذ وليد البامري,05/09/2024,05/09/2024
+"""663b922b749dd6c9d7cad520""",Cyrine-Gharbi,59,credit,Bizerte,Pack parfum d'ambiance,05/08/2024,05/08/2024
+"""663b9214749dd6c9d7cad512""",Cyrine-Gharbi,58.4,credit,Bizerte,مستلزمات تنظيف للمقر,05/08/2024,05/08/2024
+"""663b6aa4749dd6c9d7cad080""",HANA_JARBOUI,56,credit,Centre Urbain Nord,مستلزمات تنظيف و مكتبة,05/08/2024,05/08/2024
+"""663b67ad749dd6c9d7cad015""",Asma-Yousfi,660,credit,Kairouan,أجرة أساتذة عبر تحويل بنكي,05/08/2024,05/08/2024
+"""663b64c8749dd6c9d7cacfbb""",Habiba-oueslati,510,credit,Kairouan,"اجرة استاذ
+مختار الكيلاني",05/08/2024,05/08/2024
+"""663b429b749dd6c9d7cacaad""",Wafa-mhenni,1600,credit,Centre Urbain Nord,شهرية الاستاذ عمر مهني,05/08/2024,05/08/2024
+"""663b427f749dd6c9d7caca95""",Wafa-mhenni,414,credit,Centre Urbain Nord,شهرية الاستاذ يوسف دويرة ,05/08/2024,05/08/2024
+"""663b4251749dd6c9d7caca7b""",Wafa-mhenni,220,credit,Centre Urbain Nord,شهرية الاستاذة ياسمين ,05/08/2024,05/08/2024
+"""663a573c749dd6c9d7cab8f3""",Asma-Yousfi,300,credit,Kairouan,أجرة أستاذ - لطفي الشّويحي - ,05/07/2024,05/07/2024
+"""663a03cb749dd6c9d7caa571""",Habiba-oueslati,28.5,credit,Kairouan,"أدوات مكتبية (enveloppe, scotch, bracelet élastique, stylo fluo)",05/07/2024,05/07/2024
+"""6639fa1f749dd6c9d7caa310""",Benromdhane_Hajer,860,credit,Sfax,خلاص الاستاذ هشام عبداللّوي ,05/07/2024,05/07/2024
+"""6639f9fb749dd6c9d7caa2dc""",Benromdhane_Hajer,420,credit,Sfax,خلاص الأستاذ منجي الصايم ,05/07/2024,05/07/2024
+"""6639f9d1749dd6c9d7caa2b3""",Benromdhane_Hajer,1775,credit,Sfax,خلاص الاستاذ محمود بن مبارك ,05/07/2024,05/07/2024
+"""6639f9b8749dd6c9d7caa28d""",Benromdhane_Hajer,1275,credit,Sfax,خلاص الأستاذ علي دومة ,05/07/2024,05/07/2024
+"""663900ef749dd6c9d7ca8c26""",Sawsen_Jlidi,33,credit,Sfax,خلاص فاتورة الماء,05/06/2024,05/06/2024
+"""663900c2749dd6c9d7ca8c0d""",Sawsen_Jlidi,10,credit,Sfax,شراء ماء,05/06/2024,05/06/2024
+"""6633aca8749dd6c9d7ca2599""",Eya-Guermazi,100,credit,Kasserine,منحة الفطور آية+كوثر,05/02/2024,05/02/2024
+"""6633ab2f749dd6c9d7ca252c""",Sabrine-Trabelsi,50,credit,Gabes,منحة فطور صبرين,05/02/2024,05/23/2024
+"""6633ab0f749dd6c9d7ca2509""",Sabrine-Trabelsi,50,deposit,Gabes,منحة فطور فاطمة,05/02/2024,05/02/2024
+"""663399d9749dd6c9d7ca1e21""",Wafa-mhenni,100,credit,Centre Urbain Nord,منحة فطور هناء+وفاء,05/02/2024,05/02/2024
+"""66338038749dd6c9d7ca180c""",Asma-Yousfi,100,credit,Kairouan,إيسونس,05/02/2024,05/02/2024
+"""66338032749dd6c9d7ca17fe""",Habiba-oueslati,50,credit,Kairouan,منحة فطور,05/02/2024,05/02/2024
+"""66338017749dd6c9d7ca17d9""",Asma-Yousfi,50,credit,Kairouan,منحة فطور,05/02/2024,05/02/2024
+"""66337fc5749dd6c9d7ca178a""",Habiba-oueslati,13.8,credit,Kairouan,ماء,05/02/2024,05/02/2024

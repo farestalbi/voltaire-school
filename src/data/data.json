@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Voltaire School",
+    "title": "École Voltaire",
     "paragraph": "L'excellence que nous visons est au-delà de la réussite scolaire"
   },
   "About": {
@@ -84,14 +84,14 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/houda.jpg",
+      "text": "Cadres éducatifs compétents.. instituteurs motivés.. ambiance détendue.. direction attentive et souple..      ",
+      "name": "Houda Mzoughi"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/nizar.jpeg",
+      "text": "Mon fils est toujours très heureux et impatient de ce rendre à l'école. Merci à toute l’équipe, pour rendre cette école aussi agréable et professionnelle!      ",
+      "name": "Nizar Garzoun"
     },
     {
       "img": "img/testimonials/03.jpg",
@@ -137,9 +137,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Rue Mohamed El Karoui 4002 Sousse, Tunisie",
+    "phone": "+216 97228988",
+    "email": "ecolevoltairesousse@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"

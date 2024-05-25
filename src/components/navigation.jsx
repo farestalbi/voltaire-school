@@ -20,7 +20,7 @@ export const Navigation = (props) => {
           {/* <a className="navbar-brand page-scroll" href="#page-top">
             Voltaire School
           </a>{" "} */}
-          <img src="img/voltaire-logo.png" className="starter-logo"/>
+          <img src="img/voltaire-logo.png" className="starter-logo" />
         </div>
 
         <div
@@ -38,24 +38,24 @@ export const Navigation = (props) => {
                 L'établissement
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#services" className="page-scroll">
                 Services
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                Galerie
               </a>
             </li>
             <li>
               <a href="#testimonials" className="page-scroll">
-                Testimonials
+                TÉMOIGNAGES
               </a>
             </li>
             <li>
               <a href="#team" className="page-scroll">
-                Team
+                ÉQUIPE
               </a>
             </li>
             <li>

@@ -1,0 +1,66 @@
+_id,admin,amount,type,office,notes,createdAt,updatedAt
+"""664724da3aed837d9b90c59f""",notifapp,200,credit,Ezzahra,rgrg,05/17/2024,05/17/2024
+"""664724773aed837d9b90c456""",notifapp,1000,deposit,Ezzahra,Cash desk now,05/17/2024,05/17/2024
+"""6633744715fee9f1f5d4692b""",notifapp,200,deposit,Monastir,test 1,05/02/2024,05/02/2024
+"""6633741620fa0d1ab7166b57""",notifapp,200,deposit,Monastir,test 1,05/02/2024,05/02/2024
+"""66337406c4e1141757b6d7c7""",notifapp,200,deposit,Monastir,test 1,05/02/2024,05/02/2024
+"""66337113d57064ccbdee50b1""",notifapp,200,deposit,Monastir,test 1,05/02/2024,05/02/2024
+"""663370d3a51423a90d11149d""",notifapp,200,deposit,Monastir,test 1,05/02/2024,05/02/2024
+"""662fb0d997e4cba40d49191d""",Sawsen_Jlidi,650,credit,Sfax,شهرية أفريل,04/29/2024,04/29/2024
+"""662fa45836ec1a5f8578837f""",Feten-bensaad,10,credit,El Aouina,pour transport ( STEG / Syndic ) ,04/29/2024,04/29/2024
+"""662fa39c36ec1a5f85787fff""",Feten-bensaad,187,credit,El Aouina,Facture d'électricité ,04/29/2024,04/29/2024
+"""662fa38e36ec1a5f85787fbd""",Rana-Abidi,250,credit,El Kef,"27875217
+خلصت قسط زايد 
+استرجاع مبلغ 250د",04/29/2024,04/29/2024
+"""662fa28f36ec1a5f85787f7b""",Feten-bensaad,330,credit,El Aouina, Syndic ,04/29/2024,04/29/2024
+"""662f9df036ec1a5f857877eb""",Imen-Labyedh,16.7,credit,Siliana,"مشتريات من المكتبة:
+2 Recharge bloc cube
+4 stylos
+Pile 
+معلوم ارسال وثائق عبر البريد",04/29/2024,04/29/2024
+"""662f9b1136ec1a5f85786e3f""",Majdouline-benmoussa,70,deposit,Sousse Khézama,رجعت تسبقة ,04/29/2024,04/29/2024
+"""662f758836ec1a5f857856a5""",Wafa-mhenni,500,credit,Centre Urbain Nord,تسبقة وفاء,04/29/2024,04/29/2024
+"""662f751936ec1a5f85785664""",HANA_JARBOUI,105,credit,Centre Urbain Nord,شراء étagère de rangement livres للكتب 98د+تنقل وفاء للوكالة العقارية 7د,04/29/2024,04/29/2024
+"""662f5d0c36ec1a5f85784cd7""",Sabrine-Hammami,500,deposit,Siliana,سلفة / قسط افريل ,04/29/2024,04/29/2024
+"""662f598236ec1a5f85784ae7""",HANA_JARBOUI,500,deposit,Centre Urbain Nord,ارجاع سلفة هناء ,04/29/2024,04/29/2024
+"""662d2cc830078bcef85bdedc""",Imen-Labyedh,60,credit,Siliana,تكملة الشهرية,04/27/2024,04/27/2024
+"""662d1b6f30078bcef85bd655""",Cyrine-Gharbi,500,deposit,Bizerte,"القسط الثاني من استرجاع الكريدي
+و المرة القادمة سوف يتم استرجاع 2 اقساط في نفس الشهر ""ماي""",04/27/2024,04/27/2024
+"""662ce4e030078bcef85bbf9a""",soumaya-acil,70,credit,Tunis Bardo,إسترجاع مبلغ مالي رقم التلميذ 253306,04/27/2024,04/27/2024
+"""662ccb2730078bcef85bb553""",Siwar-belhajboubaker,650,credit,Kélibia,شهرية رانية (مقر قليبية) ,04/27/2024,04/27/2024
+"""662ccaf830078bcef85bb538""",Siwar-belhajboubaker,650,credit,Kélibia,شهرية سوار (مقر قليبية) ,04/27/2024,04/27/2024
+"""662cb43630078bcef85babc1""",Kawther-Nasri,750,credit,Kasserine,شهرية كوثر,04/27/2024,04/27/2024
+"""662bdd0830078bcef85ba030""",ّImen-Masrouki,850,credit,Zaghouan,شهرية ايمان - أفريل ,04/26/2024,04/26/2024
+"""662bc0b71411f6c0fe9c3eb0""",Eya-Guermazi,750,credit,Kasserine,شهرية آية,04/26/2024,04/26/2024
+"""662bb5521411f6c0fe9c3c6e""",imen-gorrab,90,credit,Nabeul,أجر سي الشوك,04/26/2024,04/26/2024
+"""662a82872b4c32651b08deb2""",zahra-Saidia,5,credit,Gafsa,بعثت جواب لعبير,04/25/2024,04/25/2024
+"""662a7c852b4c32651b08d3ae""",Marwa-Ferchichi,24.4,credit,Mourouj,مستلزمات مكتبية (لاستيك فلوس+2ستيلوات+سكوتش كبير وصغير+حبار للكاشي+ستيكي نوت),04/25/2024,04/25/2024
+"""662a7bbe2b4c32651b08d2bb""",Habiba-oueslati,895,credit,Kairouan,شهرية الاستاذ سهيل نجاح,04/25/2024,04/25/2024
+"""662a79637c906b810233162f""",Feten-bensaad,3171,credit,El Aouina,خلاص الأستاذة تسنيم قطي ,04/25/2024,04/25/2024
+"""662a62b1c36083393459e2df""",Nesrine-Maaoui,5,credit,Zaghouan,Frais postal ( بعثت شهادة الخصم من المورد ),04/25/2024,04/25/2024
+"""662a62b0c36083393459e2d1""",Yacinebk_academy,24.5,credit,Sousse Sahloul,note,04/25/2024,04/25/2024
+"""662a5d3bc36083393459d9ce""",soumaya-acil,75,credit,Tunis Bardo,Salaire mars mohamed Said,04/25/2024,04/25/2024
+"""662a5d27c36083393459d9b9""",soumaya-acil,97.4,credit,Tunis Bardo,فطور + سيتروناد +حلو لتقي و رجاء و سامي ,04/25/2024,04/25/2024
+"""662a5b84c36083393459d6b0""",Marwa-hmida,13,credit,Monastir,قضيات للمقر,04/25/2024,04/25/2024
+"""662a570bc36083393459cced""",Rihab_Jabeur,50,credit,Kébili,ram+encre(4couleurs)+stickers+graffeuse,04/25/2024,04/25/2024
+"""662a55c4c36083393459c8ce""",Feten-bensaad,300,credit,El Aouina,خلاص الأنترنات ,04/25/2024,04/25/2024
+"""662a55abc36083393459c891""",Sinda-Trimech,14.8,credit,Mahdia,ماء + معطّر جو ,04/25/2024,04/25/2024
+"""662a53d7c36083393459c787""",Malek_ben_sassi,100,deposit,Tataouine,إرجاع التسبقة,04/25/2024,04/25/2024
+"""662a53c7c36083393459c779""",Malek_ben_sassi,100,credit,Tataouine,تسبقة على الشهرية,04/25/2024,04/25/2024
+"""662a53b2c36083393459c76b""",Malek_ben_sassi,100,credit,Tataouine,مواد تنظيف,04/25/2024,04/25/2024
+"""6629575c8c067a33b38484fa""",notifapp,200,credit,Kélibia,test,04/24/2024,04/24/2024
+"""662950a82ec374b721a7ae21""",imen-gorrab,100,credit,Nabeul,أجر أستاذ فلان الفلاني,04/24/2024,04/24/2024
+"""6628c2886c3285532e0564c9""",notifapp,130,credit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c2876c3285532e0564c2""",notifapp,130,credit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c2856c3285532e0564bb""",notifapp,130,credit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c2846c3285532e0564b4""",notifapp,130,credit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c2836c3285532e0564ad""",notifapp,130,credit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c27f6c3285532e0564a6""",notifapp,120,credit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c27e6c3285532e05649f""",notifapp,120,credit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c2796c3285532e056496""",notifapp,200,credit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c2796c3285532e056494""",notifapp,200,credit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c2786c3285532e05648a""",notifapp,200,credit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c2746c3285532e056483""",notifapp,200,deposit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c2746c3285532e05647c""",notifapp,200,deposit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c2736c3285532e056475""",notifapp,200,deposit,Monastir,test 1,04/24/2024,04/24/2024
+"""6628c2726c3285532e05646e""",notifapp,200,deposit,Monastir,test 1,04/24/2024,04/24/2024
